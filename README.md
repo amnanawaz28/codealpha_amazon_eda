@@ -45,11 +45,3 @@ bashpip install pandas numpy matplotlib seaborn
 
 Download amazon.csv from Kaggle and place it in the project folder
 Open and run the notebook
-
-bashjupyter notebook amazon_eda.ipynb
-
-
-🏢 Internship
-Organization: CodeAlpha
-Domain: Data Analytics
-Task: 2 of 4
