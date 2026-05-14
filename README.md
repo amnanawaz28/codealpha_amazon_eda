@@ -37,7 +37,7 @@ Jupyter Notebook
 
 Clone this repository
 
-bashgit clone https://github.com/yourusername/codealpha_amazon_eda
+bashgit clone https://github.com/amnanawaz28/codealpha_amazon_eda
 
 Install dependencies
 
